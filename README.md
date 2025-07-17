@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kbyk004-playwright-lighthouse-mcp-badge.png)](https://mseep.ai/app/kbyk004-playwright-lighthouse-mcp)
+
 # Playwright-Lighthouse MCP Server
 
 A MCP server that analyzes web site performance using Playwright and Lighthouse. Through the Model Context Protocol (MCP), LLMs can perform web site performance analysis.
